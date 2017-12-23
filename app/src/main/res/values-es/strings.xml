@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tic-Tac-Toe</string>
+    <string name="first_human">Tu vas primero.</string>
+    <string name="turn_human">Tu turno.</string>
+    <string name="turn_computer">Turno de Android.</string>
+    <string name="result_tie">Es un empate.</string>
+    <string name="result_human_wins">Has ganado!</string>
+    <string name="result_computer_wins">Android ha ganado!</string>
+    <string name="menu_new_game">Nuevo juego</string>
+    <string name="result_text">Jugador: %d Empates: %d Android: %d</string>
+    <string name="start_button">Click al botón para iniciar</string>
+</resources>
